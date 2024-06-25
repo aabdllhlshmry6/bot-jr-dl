@@ -1,0 +1,16 @@
+{
+  "APPLY": {
+    "GANGS": {
+      "NAME": "التقديم على الادارة",
+      "BANNER": "https://cdn.discordapp.com/attachments/753346746884685844/1250397361121787924/banner_user.png?ex=6676a84a&is=667556ca&hm=3a2baa77c4bfd68c9c9e232b7e375cb5d8db4e537ff90d01f5fd16e2883a123b&",
+      "DATA": [
+        {
+          "name": "التقديم على الادارة",
+          "emoji": "✅",
+          "CHANNEL": "1253349771415130132",
+          "role": "1249592384040210446"
+        }
+      ]
+    }
+  }
+}
